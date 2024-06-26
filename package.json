@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node": "^18.20.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "Express": "^3.0.1"
+  }
+}
